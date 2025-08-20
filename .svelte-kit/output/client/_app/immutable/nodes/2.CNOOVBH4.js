@@ -1,0 +1,1 @@
+import"../chunks/DsnmJJEf.js";import"../chunks/BYrY5Dwg.js";import{b as r,s as p,f as m,a as n}from"../chunks/Ck2SJaXJ.js";var i=r("<h1>Dashboard</h1> <p></p>",1);function h(o){var a=i(),t=p(m(a),2);t.textContent="Willkommen, ",n(o,a)}export{h as component};
